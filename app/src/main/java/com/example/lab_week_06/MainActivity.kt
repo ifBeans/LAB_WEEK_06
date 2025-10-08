@@ -66,6 +66,55 @@ class MainActivity : AppCompatActivity() {
                     "Curious George",
                     "Award winning investigator",
                     "https://cdn2.thecatapi.com/images/bar.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.BalineseJavanese,
+                    "Oliver",
+                    "Loves chasing shadows and stealing snacks.",
+                    "https://cdn2.thecatapi.com/images/MTY3ODIyMQ.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.ExoticShorthair,
+                    "Luna",
+                    "Enjoys naps and laser pointers equally.",
+                    "https://cdn2.thecatapi.com/images/0XYvRd7oD.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.AmericanCurl,
+                    "Mochi",
+                    "Quiet but always observing everyone.",
+                    "https://cdn2.thecatapi.com/images/bpc.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Simba",
+                    "Acts like a lion, scared of cucumbers.",
+                    "https://cdn2.thecatapi.com/images/c8p.jpg"
+                ),
+                CatModel(
+                    Gender.Female,
+                    CatBreed.BalineseJavanese,
+                    "Cleo",
+                    "Elegant, sassy, and always in charge.",
+                    "https://cdn2.thecatapi.com/images/6qi.jpg"
+                ),
+                CatModel(
+                    Gender.Unknown,
+                    CatBreed.AmericanCurl,
+                    "Shadow",
+                    "Appears only when treats are opened.",
+                    "https://cdn2.thecatapi.com/images/9a0.jpg"
+                ),
+                CatModel(
+                    Gender.Male,
+                    CatBreed.ExoticShorthair,
+                    "Biscuit",
+                    "Fluffy ball of chaos and love.",
+                    "https://cdn2.thecatapi.com/images/bpc.jpg"
                 )
             )
         )
